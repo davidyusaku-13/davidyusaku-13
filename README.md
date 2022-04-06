@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
   <!-- - 💞️ I’m looking to collaborate on ... -->
   <!-- - 📫 How to reach me ... -->
-  <a href="t.co/kelilingdesa">Twitter</a>
+- <a href="t.co/kelilingdesa">Twitter</a>
 
 <!---
 davidyusaku-13/davidyusaku-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
