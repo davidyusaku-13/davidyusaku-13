@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Yusaku
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript
   <!-- - 💞️ I’m looking to collaborate on ... -->
   <!-- - 📫 How to reach me ... -->
 
